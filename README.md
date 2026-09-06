@@ -1,4 +1,4 @@
-# Safir Hussain 💻
+# Hi there, it's Safir Hussain 💻
 
 
 ```javascript
@@ -11,17 +11,9 @@
    }
 ```
 
-<!--
-**Safir-Hussain/Safir-Hussain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀Frontend Developer | Javascript & React
+<p>
+   I'm a passionate Frontend Developer focused on building <strong>modern, responsive, performant, and user-friendly experiences</strong>
+   I enjoy turning ideas and designs into clean, scalable interfaces and continuously improving my skills in modern web technologies.
+</p>
